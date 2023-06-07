@@ -3,3 +3,6 @@ django-admin-interface
 django-crispy-forms
 pillow
 django-rest-framework
+mysql
+mysqlclient
+django-jazzmin
